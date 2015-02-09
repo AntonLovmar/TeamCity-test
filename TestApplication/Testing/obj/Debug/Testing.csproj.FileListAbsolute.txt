@@ -1,0 +1,9 @@
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\bin\Debug\Testing.dll
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\bin\Debug\Testing.pdb
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\bin\Debug\nunit.framework.dll
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\bin\Debug\TestApplication.exe
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\bin\Debug\TestApplication.pdb
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\bin\Debug\nunit.framework.xml
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\obj\Debug\Testing.dll
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\Testing\obj\Debug\Testing.pdb
