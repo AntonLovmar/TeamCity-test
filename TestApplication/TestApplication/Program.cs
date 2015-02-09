@@ -11,5 +11,10 @@ namespace TestApplication
         static void Main(string[] args)
         {
         }
+
+        public string SayHello()
+        {
+            return "Hello Anton!";
+        }
     }
 }
