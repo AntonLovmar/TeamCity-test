@@ -14,7 +14,7 @@ namespace TestApplication
 
         public string SayHello()
         {
-            return "Hello Anton!";
+            return "Hello World!";
         }
     }
 }
