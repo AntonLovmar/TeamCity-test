@@ -1,0 +1,1 @@
+C:\Users\anton.lovmar\Documents\Github\TeamCity-test\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
